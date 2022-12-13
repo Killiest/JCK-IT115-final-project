@@ -1,4 +1,4 @@
-<h1> How to contribute</h1>
+# How to contribute
 
 * You don't.
 * This project is MINE!
